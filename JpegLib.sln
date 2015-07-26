@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JpegLib", "JpegLib.vcxproj", "{D50929E5-9AF9-46A3-8C84-8E0FA3DCB99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release_stdcall|Win32 = Release_stdcall|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D50929E5-9AF9-46A3-8C84-8E0FA3DCB99F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D50929E5-9AF9-46A3-8C84-8E0FA3DCB99F}.Debug|Win32.Build.0 = Debug|Win32
+		{D50929E5-9AF9-46A3-8C84-8E0FA3DCB99F}.Release_stdcall|Win32.ActiveCfg = Release_stdcall|Win32
+		{D50929E5-9AF9-46A3-8C84-8E0FA3DCB99F}.Release_stdcall|Win32.Build.0 = Release_stdcall|Win32
+		{D50929E5-9AF9-46A3-8C84-8E0FA3DCB99F}.Release|Win32.ActiveCfg = Release|Win32
+		{D50929E5-9AF9-46A3-8C84-8E0FA3DCB99F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
